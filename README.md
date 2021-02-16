@@ -1,3 +1,5 @@
+## Financial Analytics Dashboard
+
 Dashboard link:
 http://jonhuff.shinyapps.io/dashboard
 
